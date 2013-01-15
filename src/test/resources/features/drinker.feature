@@ -16,4 +16,4 @@ Feature: A simulated bar patron
   Scenario: A slam should finish off the beverage
     Given I have a pint with 10 oz of beer
     When I slam it
-    And there should be 0 oz of beer in the pint
+    Then there should be 0 oz of beer in the pint

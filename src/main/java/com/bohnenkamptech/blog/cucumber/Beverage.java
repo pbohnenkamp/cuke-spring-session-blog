@@ -1,7 +1,7 @@
 package com.bohnenkamptech.blog.cucumber;
 
 /**
- * Interface for a beverage
+ * Interface for a container that holds liquid
  */
 public interface Beverage {
 

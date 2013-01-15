@@ -5,7 +5,7 @@ import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Component;
 
 /**
- * Created with IntelliJ IDEA.
+ * Implementation of a <code>Beverage</code> that behaves like a pint of beer
  */
 public class Pint implements Beverage {
 

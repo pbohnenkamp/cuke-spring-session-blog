@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Class description
+ * The step definitions for a Drinker feature
  */
 public class DrinkerStepsDef {
 

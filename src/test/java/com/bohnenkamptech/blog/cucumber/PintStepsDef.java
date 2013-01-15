@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import static org.junit.Assert.*;
 
 /**
- * Class description
+ * The step definitions for a Pint Beverage
  */
 public class PintStepsDef {
 

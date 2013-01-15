@@ -1,7 +1,7 @@
 package com.bohnenkamptech.blog.cucumber;
 
 /**
- * Class description
+ * A simulated bar patron
  */
 public class Drinker {
 
